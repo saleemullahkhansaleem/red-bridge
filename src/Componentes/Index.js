@@ -1,0 +1,12 @@
+export { default as Navbar } from "./Navbar";
+export { default as HeroSection } from "./HeroSection";
+export { default as Header } from "./Header";
+export { default as AboutUs } from "./AboutUs";
+export { default as News } from "./News";
+export { default as NewsCard } from "./NewsCard";
+export { default as WhyUs } from "./WhyUs";
+export { default as SubTitle } from "./SubTitle";
+export { default as ContactUs } from "./ContactUs";
+export { default as ContactForm } from "./ContactForm";
+export { default as Services } from "./Services";
+export { default as LogoSlider } from "./LogoSlider";
